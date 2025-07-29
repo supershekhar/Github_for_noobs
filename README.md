@@ -177,11 +177,6 @@ git remote add origin git@github.com:supershekhar/created_repo.git
 git push -u origin main
 ```
 
-> If `main` doesn't work, try:
-
-```bash
-git push -u origin master
-```
 
 ---
 
