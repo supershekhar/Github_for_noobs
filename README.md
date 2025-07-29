@@ -1,4 +1,4 @@
-### Github For Noobs
+#### Github For Noobs
 
 **If you want a little introduction here it is if you want direct setup [click here](#step-1-create-a-github-account)**
 
